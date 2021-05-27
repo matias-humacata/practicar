@@ -27,7 +27,7 @@ body {
 
 
 .title {
-    animation: titleFadeIn ease 4s;
+    animation: titleFadeIn ease 4s; 
     text-align: center;
     font-weight: 300;
     max-width: 500px;
